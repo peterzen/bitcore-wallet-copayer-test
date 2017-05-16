@@ -1,0 +1,19 @@
+{
+  "name": "wallet-test",
+  "version": "1.0.0",
+  "description": "createwalletTest",
+  "main": "createwalletTest.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bitcore-wallet-client": "git://github.com/decred/bitcore-wallet-client.git",
+    "lodash": "^4.17.4",
+    "crypto-browserify": "git://github.com/decred/crypto-browserify.git#master-legacy"
+  },
+  "peerDependencies": {
+  }
+
+}
